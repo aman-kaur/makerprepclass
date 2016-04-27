@@ -114,3 +114,6 @@ else if(typeof obj[key]==='string'){
 
 
 //typeof true; // => "boolean
+
+
+//need to practice
